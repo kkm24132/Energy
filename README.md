@@ -16,3 +16,8 @@ https://www.solarchoice.net.au/products/ev-chargers/myenergi-zappi/
 https://platform.solarchoice.net.au/residential/?id=395792&platform_key=c48f3b62d5683c4e73a813392e3581f0dbb9ab399fae4417d93306f389700735#/quotes-ev
 
 https://www.solarchoice.net.au/wp-content/uploads/zappi2_7A-22A_manual_compressed.pdf
+
+https://www.solarquotes.com.au/
+
+Charge HQ needed to smartly monitor EV charging using Tesla Gen 3 wall chargers:
+https://www.solarquotes.com.au/blog/charge-hq-interview/
