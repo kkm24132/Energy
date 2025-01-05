@@ -21,3 +21,7 @@ https://www.solarquotes.com.au/
 
 Charge HQ needed to smartly monitor EV charging using Tesla Gen 3 wall chargers:
 https://www.solarquotes.com.au/blog/charge-hq-interview/
+
+Home Assistant:
+https://www.influxdata.com/blog/home-assistant-tutorial-beginners-guide-automation-influxdb/#:~:text=Home%20Assistant%20is%20an%20open,unified%20web%2Dbased%20user%20interface.
+
