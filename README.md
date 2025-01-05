@@ -7,6 +7,9 @@ All about energy efficiency aspects
 https://www.energy.nsw.gov.au/nsw-plans-and-progress/regulation-and-policy/energy-security-safeguard/peak-demand-reduction-scheme
 https://www.energy.nsw.gov.au/households/rebates-grants-and-schemes/household-energy-saving-upgrades/install-battery
 
+How to read your electricity meter:
+https://www.endeavourenergy.com.au/your-energy/your-electricity-meter/how-to-read-your-meter
+
 https://www.solarquotes.com.au/battery-storage/vpp-comparison/
 
 https://www.billhero.com.au/subscribe
