@@ -5,6 +5,7 @@ All about energy efficiency aspects
 ## Reference
 
 - Battery Degradation approach using Machine Learning: [Paper](https://arxiv.org/pdf/2410.14347)
+- Diagnostic Forecasting of Battery Degradation Through Contrastive Learning: [Paper](ACCEPT: Diagnostic Forecasting of Battery Degradation Through Contrastive Learning)
 
 https://www.energy.nsw.gov.au/nsw-plans-and-progress/regulation-and-policy/energy-security-safeguard/peak-demand-reduction-scheme
 https://www.energy.nsw.gov.au/households/rebates-grants-and-schemes/household-energy-saving-upgrades/install-battery
